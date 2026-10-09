@@ -1,0 +1,13 @@
+﻿Run_ID,Name,instrument,location,loading,insert_size_projected,final_run_loading_combined_ng,design,library_prep_method,Qiagen,pool,PB_barcode,Total_bases_LP,Total_bases_PB,Percent_LP
+r84039_20250204_022121,P1_RevioSPRQ_s1,PB Revio SPRQ,PB Apps lab,200 pM,17000,58.9,longplex 1x,PCRfree,FALSE,plate_1,bc2033,12414536676,"57,555,691,190",21.6
+r84039_20250204_022121,P1_RevioSPRQ_s2,PB Revio SPRQ,PB Apps lab,250 pM,17000,73.6,longplex 1x,PCRfree,FALSE,plate_1,bc2033,7082439897,"32,580,590,150",21.7
+r84039_20250205_004057,P2_RevioSPRQ_s3,PB Revio SPRQ,PB Apps lab,200 pM,17000,55.5,longplex 1x,PCRfree,FALSE,plate_2,bc2034,5983238315,"34,318,429,534",17.4
+r84039_20250205_004057,P2_RevioSPRQ_s3,PB Revio SPRQ,PB Apps lab,200 pM,17000,55.5,longplex 1x,PCRfree,FALSE,plate_2,bc2030,3079372242,"18,823,958,172",16.4
+r84039_20250205_004057,Plate3_RevioSPRQ,PB Revio SPRQ,PB Apps lab,200 pM,17000,60.2,longplex 1x,PCRfree,FALSE,plate_3,bc2035,17365962010,"59,566,715,895",29.2
+r21026_20250205_004528,Plate3_Vega,PB Vega,PB Apps lab,162 pM,17000,187.2,longplex 1x,PCRfree,FALSE,plate_3,bc2035,15524055758,"53,342,535,845",29.1
+R004,EED_pool,PB Vega,BSB Minich,225 pM,7000,131.1,longplex 1x,PCR,FALSE,EED,bc2007,15036172424,16520529785,91.0
+R004,ESK_pool,PB Vega,BSB Minich,225 pM,7000,131.1,longplex 1x,PCR,FALSE,ESK,bc2008,16552261728,18170710504,91.1
+R005,EED_pool,PB Vega,BSB Minich,300 pM,7000,208.5,longplex 1x,PCR,TRUE,EED,bc2007,11919697316,13164071061,90.5
+R005,ESK_pool,PB Vega,BSB Minich,300 pM,7000,208.5,longplex 1x,PCR,TRUE,ESK,bc2008,6643366859,7322724143,90.7
+R006,combined 0.5x 0.25x,PB Vega,BSB Minich,265 pM,7000,155,longplex 0.5x 0.25x,PCR,FALSE,both,bc2010,35537462001,38906332774,91.3
+,,,,,,,,,,,,,,
